@@ -16,6 +16,8 @@
  * Based on scriptreplay.pl by Joey Hess <joey@kitenet.net>
  */
 
+#include "package-info.h"
+
 #include <stdio.h>
 #include <stdarg.h>
 #include <stdlib.h>
